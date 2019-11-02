@@ -1,0 +1,15 @@
+A program to decode .wav files that contain morse code.
+
+Use python3 main.py [path to wav file]
+
+Bugs:
+
+Doesn't properly space some words due to logic used to detect spaces.
+
+TODO:
+
+Seperate into classes.
+Add englsh to written morse
+Add written morse to englsh
+Add english to morse in wav
+Add written morse to wav
